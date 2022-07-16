@@ -1,0 +1,23 @@
+{
+  "name": "algorithms",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flowcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnquangit/algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnquangit/algorithms/issues"
+  },
+  "homepage": "https://github.com/nnquangit/algorithms#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.8"
+  }
+}
